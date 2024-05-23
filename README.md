@@ -7,8 +7,8 @@
 # Getting Started 
 ### GitHub and apps come first. Go to the OpenZepplin website, search for a GitHub account you like, and then simply open it in a new tab for further functionality. After that,  open and start creating new Ethereum! 
 
-#Authors
+# Authors
 ### Klarisse Pareja Loren
 
-#License
+# License
 ### This project is licensed under the MIT License - see the LICENSE.md file for details
